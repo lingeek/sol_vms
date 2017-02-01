@@ -1,0 +1,6 @@
+#
+# Internet host table
+#
+::1     localhost       loghost myserver
+127.0.0.1       localhost       loghost myserver
+10.10.1.1       ish-hd1          isj-hd1
